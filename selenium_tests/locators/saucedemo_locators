@@ -1,0 +1,13 @@
+class LoginPageLocators:
+    USERNAME_INPUT = "#user-name"                    # CSS - поле логина
+    PASSWORD_INPUT = "#password"                     # CSS - поле пароля
+    LOGIN_BUTTON = "#login-button"                   # CSS - кнопка входа
+    ERROR_MESSAGE = "[data-test='error']"            # CSS - сообщение об ошибке
+    LOGO = ".login_logo"                             # CSS - логотип
+
+class InventoryPageLocators:
+    TITLE = ".title"                                 # CSS - заголовок Products
+    CART_BUTTON = ".shopping_cart_link"              # CSS - иконка корзины
+    BURGER_MENU = "#react-burger-menu-btn"           # CSS - кнопка меню
+    ADD_TO_CART_BACKPACK = "button[data-test='add-to-cart-sauce-labs-backpack']"
+    PRODUCT_NAME = ".inventory_item_name"            # CSS - название товара
