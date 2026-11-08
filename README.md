@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+```bash
+git add README.md<<<<<<< HEAD
 # Автотесты (API + Selenium)
 
 ## Структура проекта
