@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","967","Успешная покупка товара","selenium_tests","2026-11-10","passed","2026-11-10","","Покупка","",""
+"","544","Успешная покупка товара","selenium_tests","2026-11-10","passed","2026-11-10","","Покупка","",""
+"","18215","Неуспешная авторизация с невалидными данными","selenium_tests","2026-11-10","passed","2026-11-10","","Авторизация","",""
